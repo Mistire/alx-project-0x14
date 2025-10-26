@@ -1,6 +1,3 @@
-Got it! Here’s the **README.md** without any emojis, fully formatted for your `alx-project-0x14` repo:
-
----
 
 # ALX Project 0x14 — Movie Database API & CineSeek App
 
@@ -170,6 +167,3 @@ if (!response.ok) {
 **Project:** ALX Project 0x14 — MovieApp (CineSeek)
 **Year:** 2025
 
----
-
-If you want, I can now generate **Task 1: Next.js setup instructions + base folder/components structure** so you can set up your project quickly. Do you want me to do that next?
